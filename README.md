@@ -1,5 +1,5 @@
 # Prediciton-of-fungal-peptide
-(this is my first machine learning assignment)
+(this is my first machine learning based assignment)
 
 Shashikant_4.py contains the code that takes train.csv as input and trains a model based on svm to predict test.csv file
 
